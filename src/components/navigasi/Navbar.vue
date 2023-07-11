@@ -1,0 +1,75 @@
+<template>
+    <nav class="navbar navbar-expand-lg bg-warna">
+        <div class="container-fluid">
+            <a class="navbar-brand tulisan" href="#">Logo Desa</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link tulisan clik-respon" aria-current="page" href="#">Branda</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle tulisan clik-respon" href="#" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Profil Desa
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item tulisan2" href="#">Sejarah Desa</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Struktur Desa</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Parawisata Desa</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Peta Lokasi</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle tulisan clik-respon" href="#" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Data Desa
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item tulisan2" href="#">Data Wilayah</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Sarana Prasaranan Desa Pasar Pedati</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Kependudukan Desa Pasar Pedati</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Penganut Agama</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Batas Pendidikan Warga</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Status Perkawinan</a></li>
+                            <li><a class="dropdown-item tulisan2" href="#">Mata Pencarian Masyarakat</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link tulisan clik-respon" href="#">Agenda</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link tulisan clik-respon" href="#">Kontak</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</template>
+<style>
+.bg-warna {
+    background-color: #FDFFAE;
+}
+
+.clik-respon {
+    color: #AAC8A7 !important;
+}
+
+.clik-respon:hover {
+    border: 1px solid #AAC8A7 !important;
+    border-radius: 5px;
+    background-color: #AAC8A7 !important;
+    color: #FDFFAE !important;
+}
+
+.tulisan {
+    font-family: 'Caprasimo', cursive;
+}
+
+.tulisan2 {
+    font-family: 'Kanit', sans-serif;
+}
+</style>
