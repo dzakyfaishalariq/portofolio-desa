@@ -2,7 +2,10 @@
     <nav class="navbar navbar-expand-lg bg-warna">
         <div class="container-fluid">
             <!-- <a class="navbar-brand tulisan" href="#">Logo Desa</a> -->
-            <router-link :to="{ name: 'home' }" class="navbar-brand tulisan"> Logo Desa </router-link>
+            <router-link :to="{ name: 'home' }" class="navbar-brand">
+                <img src="@/assets/image/logoBenteng.png" alt="" width="60" height="60"
+                    class="d-inline-block align-text-top">
+            </router-link>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -10,7 +13,9 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link tulisan clik-respon" aria-current="page" href="#">Branda</a>
+                        <!-- <a class="nav-link tulisan clik-respon" aria-current="page" href="#">Branda</a> -->
+                        <router-link :to="{ name: 'home' }" class="nav-link tulisan clik-respon"> Branda </router-link>
+
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle tulisan clik-respon" href="#" role="button"
@@ -23,7 +28,11 @@
                                 <router-link :to="{ name: 'sejarahDesa' }" class="dropdown-item tulisan2">Sejarah
                                     Desa</router-link>
                             </li>
-                            <li><a class="dropdown-item tulisan2" href="#">Struktur Desa</a></li>
+                            <!-- <li><a class="dropdown-item tulisan2" href="#">Struktur Desa</a></li> -->
+                            <li>
+                                <router-link :to="{ name: 'strukturDesa' }" class="dropdown-item tulisan2">Struktur
+                                    Desa</router-link>
+                            </li>
                             <li><a class="dropdown-item tulisan2" href="#">Parawisata Desa</a></li>
                             <li><a class="dropdown-item tulisan2" href="#">Peta Lokasi</a></li>
                         </ul>
