@@ -1,7 +1,8 @@
 <template>
     <nav class="navbar navbar-expand-lg bg-warna">
         <div class="container-fluid">
-            <a class="navbar-brand tulisan" href="#">Logo Desa</a>
+            <!-- <a class="navbar-brand tulisan" href="#">Logo Desa</a> -->
+            <router-link :to="{ name: 'home' }" class="navbar-brand tulisan"> Logo Desa </router-link>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -17,7 +18,11 @@
                             Profil Desa
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item tulisan2" href="#">Sejarah Desa</a></li>
+                            <!-- <li><a class="dropdown-item tulisan2" href="#">Sejarah Desa</a></li> -->
+                            <li>
+                                <router-link :to="{ name: 'sejarahDesa' }" class="dropdown-item tulisan2">Sejarah
+                                    Desa</router-link>
+                            </li>
                             <li><a class="dropdown-item tulisan2" href="#">Struktur Desa</a></li>
                             <li><a class="dropdown-item tulisan2" href="#">Parawisata Desa</a></li>
                             <li><a class="dropdown-item tulisan2" href="#">Peta Lokasi</a></li>
