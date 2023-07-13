@@ -1,7 +1,7 @@
 <template>
-    <div class=" card text-bg-dark">
+    <div class=" card text-bg-dark mt-2">
         <!-- paggil gambar di assets -->
-        <img src="@/assets/image/DesaDumy.jpg" class=" card-img gambar" alt="gambar desa">
+        <img src="@/assets/image/SungaiSuci2.jpg" class=" card-img gambar" alt="gambar desa">
         <div class="card-img-overlay">
             <h5 class="card-title bg-tulisan tulisan">Selamat Datang Di</h5>
             <h5 class="card-title bg-tulisan tulisan">Desa Pasar Pedati</h5>
@@ -13,20 +13,22 @@
 </template>
 <style>
 .bg-tulisan {
-    color: #292b29 !important;
+    color: #f8f9f8 !important;
     font-size: 50px;
     font-weight: bold;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 30px;
 }
-.ukuran-btn{
+
+.ukuran-btn {
     font-size: 30px !important;
     width: 160px;
     height: 60px;
 }
+
 .gambar {
-    height: 500px;
+    height: 600px !important;
     width: 100%;
 }
 

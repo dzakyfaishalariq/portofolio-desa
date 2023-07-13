@@ -1,12 +1,12 @@
 <template>
-    <StrukturPKK />
+    <StrukturOrganisasiPemerintahan />
 </template>
 <script>
-import StrukturPKK from '@/components/componenStrukturDesa/StrukturPKK.vue';
+import StrukturOrganisasiPemerintahan from '@/components/componenStrukturDesa/StrukturOrganisasiPemerintahan.vue';
 export default {
     name: 'StrukturDesa',
     components: {
-        StrukturPKK
+        StrukturOrganisasiPemerintahan
     }
 }
 </script>
