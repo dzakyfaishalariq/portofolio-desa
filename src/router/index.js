@@ -2,6 +2,8 @@ import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import SejarahDesa from "../views/SejarahDesa.vue";
 import StruktuDesa from "../views/StrukturDesa.vue";
+import ParawisataDesa from "../views/ParawisataDesa.vue";
+import SungaiSuci from "../views/SungaiSuci.vue";
 const routes = [
   {
     path: "/",
@@ -26,6 +28,16 @@ const routes = [
     path: "/strukturDesa",
     name: "strukturDesa",
     component: StruktuDesa,
+  },
+  {
+    path: "/parawisataDesa",
+    name: "parawisataDesa",
+    component: ParawisataDesa,
+  },
+  {
+    path: "/sungaiSuci",
+    name: "sungaiSuci",
+    component: SungaiSuci,
   },
 ];
 
