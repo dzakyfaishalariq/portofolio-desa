@@ -38,7 +38,10 @@
                                 <router-link :to="{ name: 'parawisataDesa' }" class="dropdown-item tulisan2">Parawisata
                                     Desa</router-link>
                             </li>
-                            <li><a class="dropdown-item tulisan2" href="#">Peta Lokasi</a></li>
+                            <li>
+                                <!-- <a class="dropdown-item tulisan2" href="#">Peta Lokasi</a> -->
+                                <router-link :to="{ name: 'petaLokasi' }" class="dropdown-item tulisan2">Peta Lokasi</router-link>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">

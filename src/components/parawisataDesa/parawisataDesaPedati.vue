@@ -32,7 +32,8 @@
                         patung hewan dan angkringan yang bisa kita gunakan untuk bersantai ataupun borfoto selfie bersama
                         keluarga, teman atau kekasih.
                     </p>
-                    <a href="#" class="btn btn-primary">Baca Lebih Lanjut</a>
+                    <!-- <a href="#" class="btn btn-primary">Baca Lebih Lanjut</a> -->
+                    <router-link :to="{ name: 'wahanaSurya' }" class="btn btn-primary">Baca Lebih Lanjut</router-link>
                 </div>
             </div>
             <div class="card mb-3 shadow">
@@ -46,7 +47,8 @@
                         Danau Nibung ini memiliki dua jempatan gantung dan beberapa fasilitas lainnya seperti tempat foto
                         dan isi ban untuk berenang.
                     </p>
-                    <a href="#" class="btn btn-primary">Baca Lebih Lanjut</a>
+                    <!-- <a href="#" class="btn btn-primary">Baca Lebih Lanjut</a> -->
+                    <router-link :to="{ name: 'danauNibung' }" class="btn btn-primary">Baca Lebi Lanjut</router-link>
                 </div>
             </div>
         </div>
