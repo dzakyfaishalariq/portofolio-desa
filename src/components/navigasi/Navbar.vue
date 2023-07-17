@@ -40,7 +40,8 @@
                             </li>
                             <li>
                                 <!-- <a class="dropdown-item tulisan2" href="#">Peta Lokasi</a> -->
-                                <router-link :to="{ name: 'petaLokasi' }" class="dropdown-item tulisan2">Peta Lokasi</router-link>
+                                <router-link :to="{ name: 'petaLokasi' }" class="dropdown-item tulisan2">Peta
+                                    Lokasi</router-link>
                             </li>
                         </ul>
                     </li>
@@ -50,13 +51,17 @@
                             Data Desa
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item tulisan2" href="#">Data Wilayah</a></li>
-                            <li><a class="dropdown-item tulisan2" href="#">Sarana Prasaranan Desa Pasar Pedati</a></li>
-                            <li><a class="dropdown-item tulisan2" href="#">Kependudukan Desa Pasar Pedati</a></li>
-                            <li><a class="dropdown-item tulisan2" href="#">Penganut Agama</a></li>
-                            <li><a class="dropdown-item tulisan2" href="#">Batas Pendidikan Warga</a></li>
-                            <li><a class="dropdown-item tulisan2" href="#">Status Perkawinan</a></li>
-                            <li><a class="dropdown-item tulisan2" href="#">Mata Pencarian Masyarakat</a></li>
+                            <li>
+                                <router-link :to="{ name: 'dataWilayah' }" class="dropdown-item tulisan2">Data
+                                    Wilayah</router-link>
+                                <!-- <a class="dropdown-item tulisan2" href="#">Data Wilayah</a> -->
+                            </li>
+                            <li>
+                                <router-link :to="{name:'saranaDesa'}" class="dropdown-item tulisan2">
+                                    Keadaan Sosial
+                                </router-link>
+                                <!-- <a class="dropdown-item tulisan2" href="#">Sarana Prasaranan Desa Pasar Pedati</a> -->
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item">

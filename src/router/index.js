@@ -7,6 +7,8 @@ import SungaiSuci from "../views/SungaiSuci.vue";
 import WahanaSurya from "../views/WahanaSurya.vue";
 import DanauNibung from "../views/DanauNibung.vue";
 import PetaLokasi from "../views/PetaLokasi.vue";
+import DataWilayah from "../views/DataWilayah.vue";
+import SaranaDesa from "../views/SaranaDesa.vue";
 const routes = [
   {
     path: "/",
@@ -56,7 +58,17 @@ const routes = [
     path: "/petaLokasi",
     name: "petaLokasi",
     component: PetaLokasi,
-  }
+  },
+  {
+    path: "/dataWilayah",
+    name: "dataWilayah",
+    component: DataWilayah,
+  },
+  {
+    path: "/saranaDesa",
+    name: "saranaDesa",
+    component: SaranaDesa,
+  },
 ];
 
 const router = createRouter({
