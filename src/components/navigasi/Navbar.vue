@@ -1,11 +1,16 @@
 <template>
     <nav class="navbar navbar-expand-lg bg-warna fixed-top">
         <div class="container-fluid">
-            <!-- <a class="navbar-brand tulisan" href="#">Logo Desa</a> -->
-            <router-link :to="{ name: 'home' }" class="navbar-brand">
+            <router-link :to="{name:'home'}" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
                 <img src="@/assets/image/logoBenteng.png" alt="" width="60" height="60"
                     class="d-inline-block align-text-top">
+                <span class="fs-4 m-3 tulisan2"><strong>Desa Pasar Pedati</strong></span>
             </router-link>
+            <!-- <a class="navbar-brand tulisan" href="#">Logo Desa</a> -->
+            <!-- <router-link :to="{ name: 'home' }" class="navbar-brand">
+                <img src="@/assets/image/logoBenteng.png" alt="" width="60" height="60"
+                    class="d-inline-block align-text-top">
+            </router-link> -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -57,7 +62,7 @@
                                 <!-- <a class="dropdown-item tulisan2" href="#">Data Wilayah</a> -->
                             </li>
                             <li>
-                                <router-link :to="{name:'saranaDesa'}" class="dropdown-item tulisan2">
+                                <router-link :to="{ name: 'saranaDesa' }" class="dropdown-item tulisan2">
                                     Keadaan Sosial
                                 </router-link>
                                 <!-- <a class="dropdown-item tulisan2" href="#">Sarana Prasaranan Desa Pasar Pedati</a> -->

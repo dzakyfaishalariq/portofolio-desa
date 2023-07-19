@@ -1,5 +1,5 @@
 <template>
-    <div class=" container tulisan2">
+    <div class=" container tulisan2 conten-area">
         <div>
             <h1 class=" text-center mt-2">Wahana Surya</h1>
         </div>
