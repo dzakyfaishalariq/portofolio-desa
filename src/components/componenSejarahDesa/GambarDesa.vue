@@ -1,9 +1,11 @@
 <template>
     <div class=" mt-2">
-        <div class="card">
-            <img src="@/assets/image/petaDesa.jpg" class=" card-img gambar" alt="Gambar sejarah desa">
-            <div class=" card-img-overlay">
-                <h1 class=" text-center tulisan mt-5">Sejarah Singkat Desa Pasar Pedati</h1>
+        <div class=" container">
+            <div class="card shadow-lg">
+                <img src="@/assets/image/petaDesa.jpg" class=" card-img gambar" alt="Gambar sejarah desa">
+                <div class=" card-img-overlay">
+                    <h1 class=" text-center tulisan mt-5">Sejarah Singkat Desa Pasar Pedati</h1>
+                </div>
             </div>
         </div>
         <div class="container mt-5">
@@ -25,97 +27,93 @@
                         Asal mula nama desa Pasar Pedati memiliki sejarah tersendiri, yakni
                         berasal dari sebuah hikayat yang ceritanya sebagai berikut:
                     </p>
-                    <div class=" shadow-lg">
-                        <ul class="list-group">
-                            <li class="list-group-item">
-                                <p class="justify">
-                                    Di simpang Talang Pauh ada orang cina yang memiliki/berkebun
-                                    dan untuk mengangkut hasil kebunnya menggunakan alat angkut
-                                    <b>Pedati</b> (gerobak yang ditarik sapi). Gerobak ini dulunya juga
-                                    digunakan untuk mengangkut Emas dari <b>Lebak Landai</b> ke
-                                    Bengkulu, <b>Gerobak Pedati</b> ini dari zaman dahulu merupakan
-                                    sarana trasportasi warga guna membawa hasil kebun, pertanian
-                                    dan hasil hutan seperti kayu bakar, pancang pagar, atap daun
-                                    rumbia, batu bata, dari desa menuju tempat penjualan yakni pasar
-                                    yang jarak nya ± 15 Km dari desa, bahkan sebalik nya Pedati ini
-                                    juga membawa segala macam kebutuhan pokok yang di butuhkan
-                                    warga yang dibeli di <b>Pasar (Bengkulu)</b>, selain itu di sekitar
-                                    <b>Simpang Talang Pauh</b> pada zaman dulu terkenal juga dengan
-                                    nama <b>“Talang Ubi”</b> dan menjadi semacam <b>Terminalnya Kendaraan Gerobak</b>
-                                    yang ditarik oleh <b>Sapi/Kerbau</b> dari segala penjuru baik
-                                    PROFIL DESA
-                                    9
-                                    dari <b>Pondok Kelapa, Kerkap, Lais,</b> bahkan dari daerah <b>Ketahun</b>
-                                    dan tempat ini merupakan wilayah <b>Persinggahan Para Pedagang</b>
-                                    guna istirahat melepas lelah dan makan sebelum mereka
-                                    melanjutkan perjalanan. Kendaraan ini masih digunakan hingga
-                                    <b>Tahun 1985</b>
-                                </p>
-                            </li>
-                            <li class="list-group-item">
-                                <p class=" justify">
-                                    Nama desa sebelum <b>Pasar Pedati</b> adalah <b>Bermani Sungai</b> Hitam
-                                    yang letak pusat Pemerintahan nya ada di Pasar Pedati.
-                                </p>
-                            </li>
-                            <li class="list-group-item">
-                                <p class=" justify">
-                                    Pada Tahun 1960 berdiri Kecamatan Pondok Kelapa.
-                                </p>
-                            </li>
-                            <li class="list-group-item">
-                                <p class=" justify">
-                                    Tahun 1970 Bermani Sungai Hitam berubah menjadi Pasar Pedati
-                                    Pertama terbentuk, wilayah <b>Desa Pasar Pedati</b> meliputi <b>Sungai
-                                        Hitam</b> hingga <b>Talang Pauh (Sebinjai).</b>
-                                </p>
-                            </li>
-                        </ul>
-                    </div>
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            <p class="justify">
+                                Di simpang Talang Pauh ada orang cina yang memiliki/berkebun
+                                dan untuk mengangkut hasil kebunnya menggunakan alat angkut
+                                <b>Pedati</b> (gerobak yang ditarik sapi). Gerobak ini dulunya juga
+                                digunakan untuk mengangkut Emas dari <b>Lebak Landai</b> ke
+                                Bengkulu, <b>Gerobak Pedati</b> ini dari zaman dahulu merupakan
+                                sarana trasportasi warga guna membawa hasil kebun, pertanian
+                                dan hasil hutan seperti kayu bakar, pancang pagar, atap daun
+                                rumbia, batu bata, dari desa menuju tempat penjualan yakni pasar
+                                yang jarak nya ± 15 Km dari desa, bahkan sebalik nya Pedati ini
+                                juga membawa segala macam kebutuhan pokok yang di butuhkan
+                                warga yang dibeli di <b>Pasar (Bengkulu)</b>, selain itu di sekitar
+                                <b>Simpang Talang Pauh</b> pada zaman dulu terkenal juga dengan
+                                nama <b>“Talang Ubi”</b> dan menjadi semacam <b>Terminalnya Kendaraan Gerobak</b>
+                                yang ditarik oleh <b>Sapi/Kerbau</b> dari segala penjuru baik
+                                PROFIL DESA
+                                9
+                                dari <b>Pondok Kelapa, Kerkap, Lais,</b> bahkan dari daerah <b>Ketahun</b>
+                                dan tempat ini merupakan wilayah <b>Persinggahan Para Pedagang</b>
+                                guna istirahat melepas lelah dan makan sebelum mereka
+                                melanjutkan perjalanan. Kendaraan ini masih digunakan hingga
+                                <b>Tahun 1985</b>
+                            </p>
+                        </li>
+                        <li class="list-group-item">
+                            <p class=" justify">
+                                Nama desa sebelum <b>Pasar Pedati</b> adalah <b>Bermani Sungai</b> Hitam
+                                yang letak pusat Pemerintahan nya ada di Pasar Pedati.
+                            </p>
+                        </li>
+                        <li class="list-group-item">
+                            <p class=" justify">
+                                Pada Tahun 1960 berdiri Kecamatan Pondok Kelapa.
+                            </p>
+                        </li>
+                        <li class="list-group-item">
+                            <p class=" justify">
+                                Tahun 1970 Bermani Sungai Hitam berubah menjadi Pasar Pedati
+                                Pertama terbentuk, wilayah <b>Desa Pasar Pedati</b> meliputi <b>Sungai
+                                    Hitam</b> hingga <b>Talang Pauh (Sebinjai).</b>
+                            </p>
+                        </li>
+                    </ul>
                     <br>
                     <p>
                         Seiring perjalanan Waktu, wilayah Desa ini mengalami
                         perubahan, dengan kronologis sebagai berikut :
                     </p>
-                    <div class=" shadow-lg">
-                        <ol class="list-group list-group-numbered">
-                            <li class="list-group-item">
-                                Hilangnya wilayah <b>Padang Gadung (Pekik Nyaring)</b> akibat
-                                masuknya transmigrasi pada tahun 1960-an.
-                            </li>
-                            <li class="list-group-item">
-                                Hilangnya wilayah <b>Sebinjai</b> dan <b>Pasar Talang Pauh</b> menjadi <b>Desa
-                                    Talang Pauh</b> Pada tahun 1970-an.
-                            </li>
-                            <li class="list-group-item">
-                                Pada masa pemerintahan <b>Pak Mail</b>, wilayah meliputi <b>Sungai
-                                    Hitam (Bermani)</b> yang wilayahnya meliputi <b>Sungai Hitam</b> Hingga
-                                <b>Ujung Pasar Pedati</b> dan sekitarnya.
-                            </li>
-                            <li class="list-group-item">
-                                Pada pemerintahan <b>Pak Aqil</b> meliputi wilayah <b>Pondok Kelapa
-                                    (Semitul)</b> yang wilayahnya mulai dari <b>Pal 8</b> hingga <b>Padang Betuah</b>
-                                dan sekitarnya.
-                            </li>
-                            <li class="list-group-item">
-                                Pada masa pemerintahan <b>Pasirah Nasir</b> wilayah <b>Pekik Nyaring</b>
-                                hilang dan di ambil oleh/masuk <b>Wilayah Transmigrasi</b> tahun
-                                1960-an.
-                            </li>
-                            <li class="list-group-item">
-                                Pada masa kepemimpinan <b>Kepala Desa Arif</b> sebagian <b>Wilayah
-                                    Pasar Pedati</b> yang sebelah Timur sebagian di ambil oleh/masuk
-                                <b>Talang Pauh</b> di masa <b>Kepala Desa Ibrahim</b> dan selanjut nya secara
-                                sistemati.
-                            </li>
-                        </ol>
-                    </div>
+                    <ol class="list-group list-group-numbered">
+                        <li class="list-group-item">
+                            Hilangnya wilayah <b>Padang Gadung (Pekik Nyaring)</b> akibat
+                            masuknya transmigrasi pada tahun 1960-an.
+                        </li>
+                        <li class="list-group-item">
+                            Hilangnya wilayah <b>Sebinjai</b> dan <b>Pasar Talang Pauh</b> menjadi <b>Desa
+                                Talang Pauh</b> Pada tahun 1970-an.
+                        </li>
+                        <li class="list-group-item">
+                            Pada masa pemerintahan <b>Pak Mail</b>, wilayah meliputi <b>Sungai
+                                Hitam (Bermani)</b> yang wilayahnya meliputi <b>Sungai Hitam</b> Hingga
+                            <b>Ujung Pasar Pedati</b> dan sekitarnya.
+                        </li>
+                        <li class="list-group-item">
+                            Pada pemerintahan <b>Pak Aqil</b> meliputi wilayah <b>Pondok Kelapa
+                                (Semitul)</b> yang wilayahnya mulai dari <b>Pal 8</b> hingga <b>Padang Betuah</b>
+                            dan sekitarnya.
+                        </li>
+                        <li class="list-group-item">
+                            Pada masa pemerintahan <b>Pasirah Nasir</b> wilayah <b>Pekik Nyaring</b>
+                            hilang dan di ambil oleh/masuk <b>Wilayah Transmigrasi</b> tahun
+                            1960-an.
+                        </li>
+                        <li class="list-group-item">
+                            Pada masa kepemimpinan <b>Kepala Desa Arif</b> sebagian <b>Wilayah
+                                Pasar Pedati</b> yang sebelah Timur sebagian di ambil oleh/masuk
+                            <b>Talang Pauh</b> di masa <b>Kepala Desa Ibrahim</b> dan selanjut nya secara
+                            sistemati.
+                        </li>
+                    </ol>
                     <p class=" mt-2">
                         Sejarah Kelembagaan Pemerintah Desa Pasar Pedati dapat di lihat
                         seperti tabel di bawah ini.
                     </p>
                     <div class=" card">
-                        <div class=" card-header">
+                        <div class=" card-header warna-area-conten">
                             <h3 class=" text-center">TABEL 1</h3>
                             <h4 class=" text-center">Sejarah Kelembagaan Pemerintah Desa Pasar Pedati</h4>
                         </div>
@@ -643,6 +641,9 @@
 </template>
 
 <style>
+.warna-area-conten{
+    background-color: #E9FFC2 !important;
+}
 .gambar {
     height: 400px;
     object-fit: cover;

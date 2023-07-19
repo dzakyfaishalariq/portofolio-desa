@@ -2,7 +2,7 @@
     <!-- sarana dan prasarana desa pasar pedati -->
     <div class=" container mt-2 tulisan2">
         <div class="card">
-            <div class=" card-header">
+            <div class=" card-header warna-area-header">
                 <h4 class=" text-center"><strong>Sarana Prasarana Desa Pasar Pedati</strong></h4>
             </div>
             <div class=" card-body">
@@ -197,5 +197,8 @@ export default {
 
 .justify {
     text-align: justify;
+}
+.warna-area-header{
+    background-color: #C3EDC0 !important;
 }
 </style>

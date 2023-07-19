@@ -1,6 +1,8 @@
 <template>
-    <GambarDesa />
-    <SejarahPerkembanganDesa />
+    <div class=" conten-area">
+        <GambarDesa />
+        <SejarahPerkembanganDesa />
+    </div>
 </template>
 <script>
 import GambarDesa from '../components/componenSejarahDesa/GambarDesa.vue'
@@ -13,3 +15,8 @@ export default {
     }
 }
 </script>
+<style>
+.conten-area {
+    margin-top: 90px;
+}
+</style>

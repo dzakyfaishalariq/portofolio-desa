@@ -1,13 +1,15 @@
 <template>
-    <div class=" container tulisan2">
-        <div class=" card">
-            <img src="@/assets/image/dataWilayahGambar.jpg" class=" card-img gambar" alt="">
-            <div class=" card-img-overlay">
-                <h1 class=" card-title text-center"><b class="tebal">Data Wilayah Desa Pasar Pedati</b></h1>
+    <div class="conten-area">
+        <div class=" container tulisan2">
+            <div class=" card">
+                <img src="@/assets/image/dataWilayahGambar.jpg" class=" card-img gambar" alt="">
+                <div class=" card-img-overlay">
+                    <h1 class=" card-title text-center"><b class="tebal">Data Wilayah Desa Pasar Pedati</b></h1>
+                </div>
             </div>
-        </div>
-        <div class=" mt-2">
-            <Pendahuluan />
+            <div class=" mt-2">
+                <Pendahuluan />
+            </div>
         </div>
     </div>
 </template>
@@ -25,7 +27,9 @@ export default {
     height: 300px !important;
     object-fit: cover;
 }
-
+.conten-area {
+    margin-top: 90px;
+}
 .tebal {
     font-family: 'Merriweather', serif;
     font-weight: bold;

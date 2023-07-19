@@ -1,7 +1,7 @@
 <template>
     <div class=" container">
         <div class=" card">
-            <div class=" card-header text-center tulisan2">
+            <div class=" card-header text-center tulisan2 warna-conten-sejarah-desa">
                 <h4>
                     <b>
                         SEJARAH PERKEMBANGAN DESA
@@ -718,5 +718,8 @@
 <style>
 .tulisan2 {
     font-family: 'Merriweather', serif;
+}
+.warna-conten-sejarah-desa{
+    background-color: #E9FFC2 !important;
 }
 </style>

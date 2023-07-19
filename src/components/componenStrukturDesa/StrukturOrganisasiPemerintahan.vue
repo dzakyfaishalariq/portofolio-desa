@@ -1,7 +1,7 @@
 <template>
     <div class=" container tulisan2 mt-2">
         <div class=" card shadow">
-            <div class="card-header">
+            <div class="card-header warna-card-header">
                 <h4 class="text-center"><strong>Struktur Organisasi Pemerintahan Desa</strong></h4>
             </div>
             <div class=" card-body">
@@ -11,7 +11,7 @@
         </div>
         <div class="mt-2">
             <div class=" card shadow">
-                <div class="card-header">
+                <div class="card-header warna-card-header">
                     <h4 class=" text-center"><strong>Personil</strong></h4>
                 </div>
                 <div class=" card-body">
@@ -151,7 +151,7 @@
         </div>
         <div class=" mt-2">
             <div class=" card shadow">
-                <div class=" card-header">
+                <div class=" card-header warna-card-header">
                     <h4 class=" text-center"><strong>Bagan Susunan Organisasi BPD Pasar Pedati</strong></h4>
                 </div>
                 <div class="card-body">
@@ -162,7 +162,7 @@
         </div>
         <div class=" mt-2">
             <div class=" card shadow">
-                <div class="card-header">
+                <div class="card-header warna-card-header">
                     <h4 class=" text-center"><strong>Personil</strong></h4>
                 </div>
                 <div class=" card-body">
@@ -220,5 +220,8 @@
 <style>
 .tulisan2 {
     font-family: 'Merriweather', serif;
+}
+.warna-card-header{
+    background-color: #C3EDC0 !important;
 }
 </style>

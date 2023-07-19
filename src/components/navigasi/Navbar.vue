@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-expand-lg bg-warna">
+    <nav class="navbar navbar-expand-lg bg-warna fixed-top">
         <div class="container-fluid">
             <!-- <a class="navbar-brand tulisan" href="#">Logo Desa</a> -->
             <router-link :to="{ name: 'home' }" class="navbar-brand">
@@ -65,7 +65,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link tulisan clik-respon" href="#">Agenda</a>
+                        <a class="nav-link tulisan clik-respon" href="#">Agenda KKN</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link tulisan clik-respon" href="#">Kontak</a>

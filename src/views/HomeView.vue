@@ -1,7 +1,9 @@
 <template>
-  <UcapanSelamat />
-  <MenuPilihan />
-  <LokasiDesa />
+  <div class=" conten-area">
+    <UcapanSelamat />
+    <MenuPilihan />
+    <LokasiDesa />
+  </div>
 </template>
 
 <script>
@@ -19,3 +21,8 @@ export default {
   }
 }
 </script>
+<style>
+  .conten-area{
+    margin-top: 80px;
+  }
+</style>

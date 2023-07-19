@@ -1,7 +1,9 @@
 <template>
-    <KeadaanSosial />
-    <RincianProfileDesa />
-    <KependudukanDesa />
+    <div class="conten-area">
+        <KeadaanSosial />
+        <RincianProfileDesa />
+        <KependudukanDesa />
+    </div>
 </template>
 <script>
 import KeadaanSosial from "@/components/componenSaranaDesa/KeadaanSosial.vue";
@@ -16,3 +18,8 @@ export default {
     }
 }
 </script>
+<style>
+    .conten-area {
+        margin-top: 90px;
+    }
+</style>

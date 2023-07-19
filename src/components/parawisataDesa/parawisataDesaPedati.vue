@@ -1,7 +1,7 @@
 <template>
     <div class=" tulisan2">
         <div class=" container mt-2">
-            <h3 class=" text-center"><strong>Parawisata Desa</strong></h3>
+            <h1 class=" text-center"><strong>Parawisata Desa</strong></h1>
         </div>
         <div class=" container mt-2">
             <div class="card mb-3 shadow">

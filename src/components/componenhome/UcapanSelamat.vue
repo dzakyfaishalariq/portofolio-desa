@@ -1,12 +1,13 @@
 <template>
     <div class=" card text-bg-dark mt-2">
         <!-- paggil gambar di assets -->
-        <img src="@/assets/image/SungaiSuci2.jpg" class=" card-img gambar" alt="gambar desa">
+        <img src="@/assets/image/SungaiSuci2.jpg" class=" card-img gambar1" alt="gambar desa">
         <div class="card-img-overlay">
             <h5 class="card-title bg-tulisan tulisan">Selamat Datang Di</h5>
             <h5 class="card-title bg-tulisan tulisan">Desa Pasar Pedati</h5>
             <div class=" text-center">
-                <a href="#" class=" btn btn-primary ukuran-btn mt-5 tulisan">Explore</a>
+                <!-- <a href="#" class=" btn btn-primary ukuran-btn mt-5 tulisan">Explore</a> -->
+                <router-link :to="{ name: 'sejarahDesa' }" class="btn btn-primary ukuran-btn mt-5 tulisan">Explore</router-link>
             </div>
         </div>
     </div>
@@ -27,7 +28,7 @@
     height: 60px;
 }
 
-.gambar {
+.gambar1 {
     height: 600px !important;
     width: 100%;
 }
