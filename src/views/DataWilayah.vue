@@ -1,25 +1,42 @@
 <template>
-    <div class="conten-area">
-        <div class=" container tulisan2">
-            <div class=" card">
-                <img src="@/assets/image/dataWilayahGambar.jpg" class=" card-img gambar" alt="">
-                <div class=" card-img-overlay">
-                    <h1 class=" card-title text-center"><b class="tebal">Data Wilayah Desa Pasar Pedati</b></h1>
+    <div v-if="loading">
+        <Loading />
+    </div> 
+    <div v-else>
+        <div class="conten-area">
+            <div class=" container tulisan2">
+                <div class=" card">
+                    <img src="@/assets/image/dataWilayahGambar.jpg" class=" card-img gambar" alt="">
+                    <div class=" card-img-overlay">
+                        <h1 class=" card-title text-center"><b class="tebal">Data Wilayah Desa Pasar Pedati</b></h1>
+                    </div>
                 </div>
-            </div>
-            <div class=" mt-2">
-                <Pendahuluan />
+                <div class=" mt-2">
+                    <Pendahuluan />
+                </div>
             </div>
         </div>
     </div>
 </template>
 <script>
 import Pendahuluan from "@/components/componenDataWilayah/Pendahuluan.vue";
+import Loading from '../components/componenhome/LoadingArea.vue'
 export default {
     name: "DataWilayah",
     components: {
-        Pendahuluan
-    }
+        Pendahuluan,
+        Loading
+    },
+    data() {
+        return {
+            loading: true,
+        }
+    },
+    mounted() {
+        setTimeout(() => {
+            this.loading = false
+        }, 2000)
+    },
 }
 </script>
 <style>
