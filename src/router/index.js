@@ -9,6 +9,8 @@ import DanauNibung from "../views/DanauNibung.vue";
 import PetaLokasi from "../views/PetaLokasi.vue";
 import DataWilayah from "../views/DataWilayah.vue";
 import SaranaDesa from "../views/SaranaDesa.vue";
+import AgendaKKN from "../views/AgendaKKN.vue";
+import KontakDesa from "../views/KontakDesa.vue";
 const routes = [
   {
     path: "/",
@@ -16,13 +18,9 @@ const routes = [
     component: HomeView,
   },
   {
-    path: "/about",
-    name: "about",
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () =>
-      import(/* webpackChunkName: "about" */ "../views/AboutView.vue"),
+    path: "/kontakDesa",
+    name: "kontakDesa",
+    component: KontakDesa,
   },
   {
     path: "/sejarahDesa",
@@ -68,6 +66,11 @@ const routes = [
     path: "/saranaDesa",
     name: "saranaDesa",
     component: SaranaDesa,
+  },
+  {
+    path: "/agendaKKN",
+    name: "agendaKKN",
+    component: AgendaKKN,
   },
 ];
 

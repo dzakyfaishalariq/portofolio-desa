@@ -70,10 +70,12 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link tulisan clik-respon" href="#">Agenda KKN</a>
+                        <router-link :to="{name:'agendaKKN'}" class="nav-link tulisan clik-respon">Agenda KKN</router-link>
+                        <!-- <a class="nav-link tulisan clik-respon" href="#">Agenda KKN</a> -->
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link tulisan clik-respon" href="#">Kontak</a>
+                        <router-link :to="{name:'kontakDesa'}" class="nav-link tulisan clik-respon">Kontak</router-link>
+                        <!-- <a class="nav-link tulisan clik-respon" href="#">Kontak</a> -->
                     </li>
                 </ul>
             </div>

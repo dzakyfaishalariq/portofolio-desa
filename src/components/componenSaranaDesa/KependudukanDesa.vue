@@ -44,85 +44,99 @@
                                                             <tbody>
                                                                 <tr>
                                                                     <td>1</td>
-                                                                    <td>0-4</td>
-                                                                    <td>340</td>
+                                                                    <td>1-5</td>
+                                                                    <td>432</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>2</td>
-                                                                    <td>5-9</td>
-                                                                    <td>419</td>
+                                                                    <td>6-10</td>
+                                                                    <td>552</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>3</td>
-                                                                    <td>10-14</td>
-                                                                    <td>451</td>
+                                                                    <td>11-15</td>
+                                                                    <td>528</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>4</td>
-                                                                    <td>15-19</td>
-                                                                    <td>453</td>
+                                                                    <td>16-20</td>
+                                                                    <td>527</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>5</td>
-                                                                    <td>20-24</td>
-                                                                    <td>472</td>
+                                                                    <td>21-25</td>
+                                                                    <td>533</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>6</td>
-                                                                    <td>25-29</td>
-                                                                    <td>437</td>
+                                                                    <td>26-30</td>
+                                                                    <td>597</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>7</td>
-                                                                    <td>30-34</td>
-                                                                    <td>422</td>
+                                                                    <td>31-35</td>
+                                                                    <td>525</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>8</td>
-                                                                    <td>35-39</td>
-                                                                    <td>357</td>
+                                                                    <td>36-40</td>
+                                                                    <td>495</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>9</td>
-                                                                    <td>40-44</td>
-                                                                    <td>305</td>
+                                                                    <td>41-45</td>
+                                                                    <td>446</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>10</td>
-                                                                    <td>45-49</td>
-                                                                    <td>273</td>
+                                                                    <td>46-50</td>
+                                                                    <td>385</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>11</td>
-                                                                    <td>50-54</td>
-                                                                    <td>223</td>
+                                                                    <td>51-55</td>
+                                                                    <td>317</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>12</td>
-                                                                    <td>55-59</td>
-                                                                    <td>169</td>
+                                                                    <td>56-60</td>
+                                                                    <td>288</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>13</td>
-                                                                    <td>60-64</td>
-                                                                    <td>127</td>
+                                                                    <td>61-65</td>
+                                                                    <td>171</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>14</td>
-                                                                    <td>65-69</td>
-                                                                    <td>89</td>
+                                                                    <td>66-70</td>
+                                                                    <td>122</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>15</td>
-                                                                    <td>70-74</td>
-                                                                    <td>78</td>
+                                                                    <td>71-75</td>
+                                                                    <td>77</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>16</td>
-                                                                    <td>>74</td>
-                                                                    <td>70</td>
+                                                                    <td>76-80</td>
+                                                                    <td>47</td>
                                                                 </tr>
-
+                                                                <tr>
+                                                                    <td>17</td>
+                                                                    <td>81-85</td>
+                                                                    <td>46</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>18</td>
+                                                                    <td>86-90</td>
+                                                                    <td>22</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>19</td>
+                                                                    <td>>90</td>
+                                                                    <td>23</td>
+                                                                </tr>
                                                             </tbody>
                                                         </table>
                                                     </div>
@@ -176,27 +190,27 @@
                                                                 <tr>
                                                                     <td>1</td>
                                                                     <td>ISLAM</td>
-                                                                    <td>4461</td>
+                                                                    <td>6008</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>2</td>
                                                                     <td>KRISTEN</td>
-                                                                    <td>84</td>
+                                                                    <td>50</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>3</td>
                                                                     <td>KATOLIK</td>
-                                                                    <td>68</td>
+                                                                    <td>32</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>4</td>
                                                                     <td>HINDU</td>
-                                                                    <td>56</td>
+                                                                    <td>36</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>5</td>
                                                                     <td>BUDHA</td>
-                                                                    <td>16</td>
+                                                                    <td>7</td>
                                                                 </tr>
                                                             </tbody>
                                                         </table>
@@ -250,60 +264,54 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>1</td>
-                                                                <td>Belum Sekolah</td>
-                                                                <td>836</td>
+                                                                <td>Tidak/Belum Sekolah</td>
+                                                                <td>1808</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>2</td>
-                                                                <td>Tidak Tamat SD</td>
-                                                                <td>560</td>
+                                                                <td>Tidak Tamat SD/Sederajat</td>
+                                                                <td>510</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>3</td>
-                                                                <td>Tamat SD</td>
-                                                                <td>921</td>
+                                                                <td>Tamat SD/Sederajat</td>
+                                                                <td>1366</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>4</td>
-                                                                <td>SLTP</td>
-                                                                <td>758</td>
+                                                                <td>SLTP/Sederajat</td>
+                                                                <td>816</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>5</td>
-                                                                <td>SLTA</td>
-                                                                <td>886</td>
+                                                                <td>SLTA/Sederajat</td>
+                                                                <td>1213</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>6</td>
-                                                                <td>DIP I</td>
-                                                                <td>72</td>
+                                                                <td>Diploma I/II</td>
+                                                                <td>35</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>7</td>
-                                                                <td>DIP II</td>
-                                                                <td>87</td>
+                                                                <td>Akademi/Diploma III/S. Muda</td>
+                                                                <td>69</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>8</td>
-                                                                <td>DIP III</td>
-                                                                <td>64</td>
+                                                                <td>Diploma IV/Strata I</td>
+                                                                <td>297</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>9</td>
-                                                                <td>S I</td>
-                                                                <td>159</td>
+                                                                <td>Strata II</td>
+                                                                <td>18</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>10</td>
-                                                                <td>S II</td>
-                                                                <td>10</td>
+                                                                <td>Strata III</td>
+                                                                <td>1</td>
                                                             </tr>
-                                                            <tr>
-                                                                <td>11</td>
-                                                                <td>S III</td>
-                                                                <td>0</td>
-                                                            </tr>
-
                                                         </tbody>
                                                     </table>
                                                 </div>
@@ -358,22 +366,22 @@
                                                                 <tr>
                                                                     <td>1</td>
                                                                     <td>Belum Kawin</td>
-                                                                    <td>2255</td>
+                                                                    <td>2907</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>2</td>
                                                                     <td>Kawin</td>
-                                                                    <td>1990</td>
+                                                                    <td>2872</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>3</td>
-                                                                    <td>Cerai HidupK</td>
-                                                                    <td>185</td>
+                                                                    <td>Cerai Hidup</td>
+                                                                    <td>140</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>4</td>
                                                                     <td>Cerai Mati</td>
-                                                                    <td>154</td>
+                                                                    <td>214</td>
                                                                 </tr>
                                                             </tbody>
                                                         </table>
@@ -429,69 +437,202 @@
                                                             <tbody>
                                                                 <tr>
                                                                     <td>1</td>
-                                                                    <td>PNS</td>
-                                                                    <td>120</td>
+                                                                    <td>Wiraswasta</td>
+                                                                    <td>703</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>2</td>
-                                                                    <td>Nelayan</td>
-                                                                    <td>360</td>
+                                                                    <td>Mengurus Rumah Tangga</td>
+                                                                    <td>1310</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>3</td>
-                                                                    <td>Petani</td>
-                                                                    <td>140</td>
+                                                                    <td>Pelajar/Mahasiswa</td>
+                                                                    <td>767</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>4</td>
-                                                                    <td>Buru Harian</td>
-                                                                    <td>510</td>
+                                                                    <td>Belum/Tidak Bekerja</td>
+                                                                    <td>2002</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>5</td>
-                                                                    <td>Karyawan Swasta</td>
-                                                                    <td>216</td>
+                                                                    <td>Guru</td>
+                                                                    <td>30</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>6</td>
-                                                                    <td>Karyawan BUMN/BUMD</td>
-                                                                    <td>14</td>
+                                                                    <td>Pedagang</td>
+                                                                    <td>47</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>7</td>
-                                                                    <td>Bidan / Tenaga Kesehatan</td>
-                                                                    <td>16</td>
+                                                                    <td>Petani/Pekebun.</td>
+                                                                    <td>186</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>8</td>
-                                                                    <td>Tukang</td>
-                                                                    <td>160</td>
+                                                                    <td>Buruh Harian Lepas.</td>
+                                                                    <td>320</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>9</td>
-                                                                    <td>Pedagang</td>
-                                                                    <td>217</td>
+                                                                    <td>Pengacara.</td>
+                                                                    <td>1</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>10</td>
-                                                                    <td>Wiraswasta</td>
-                                                                    <td>486</td>
+                                                                    <td>Pegawai Negeri Sipil.</td>
+                                                                    <td>119</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>11</td>
-                                                                    <td>TNI/Polri</td>
-                                                                    <td>8</td>
+                                                                    <td>Buruh Tani/Perkebunan.</td>
+                                                                    <td>30</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>12</td>
-                                                                    <td>Tidak/Belum Bekerja</td>
-                                                                    <td>1038</td>
+                                                                    <td>Bidan.</td>
+                                                                    <td>5</td>
                                                                 </tr>
                                                                 <tr>
                                                                     <td>13</td>
-                                                                    <td>Lainnya</td>
-                                                                    <td>1400</td>
+                                                                    <td>Buruh Nelayan/Perikanan.</td>
+                                                                    <td>7</td>
                                                                 </tr>
+                                                                <tr>
+                                                                    <td>14</td>
+                                                                    <td>Buruh Peternakan</td>
+                                                                    <td>1</td>
+                                                                </tr>
+
+                                                                <tr>
+                                                                    <td>15</td>
+                                                                    <td>Buruh Tani/Perkebunan.</td>
+                                                                    <td>30</td>
+                                                                </tr>
+
+                                                                <tr>
+                                                                    <td>16</td>
+                                                                    <td>Dokter.</td>
+                                                                    <td>2</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>17</td>
+                                                                    <td>Dosen.</td>
+                                                                    <td>4</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>18</td>
+                                                                    <td>Imam Mesjid.</td>
+                                                                    <td>1</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>19</td>
+                                                                    <td>Industri.</td>
+                                                                    <td>2</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>20</td>
+                                                                    <td>Karyawan BUMD.</td>
+                                                                    <td>1</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>21</td>
+                                                                    <td>Karyawan Honorer.</td>
+                                                                    <td>50</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>22</td>
+                                                                    <td>Karyawan Swasta.</td>
+                                                                    <td>267</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>23</td>
+                                                                    <td>Kepolisian RI.</td>
+                                                                    <td>13</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>24</td>
+                                                                    <td>Konstruksi.</td>
+                                                                    <td>1</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>25</td>
+                                                                    <td>Konsultan.</td>
+                                                                    <td>1</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>26</td>
+                                                                    <td>Mekanik.</td>
+                                                                    <td>7</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>27</td>
+                                                                    <td>Nelayan/Perikanan</td>
+                                                                    <td>98</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>28</td>
+                                                                    <td>Pelaut.</td>
+                                                                    <td>1</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>30</td>
+                                                                    <td>Pensiunan.</td>
+                                                                    <td>33</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>31</td>
+                                                                    <td>Perangkat Desa.</td>
+                                                                    <td>4</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>32</td>
+                                                                    <td>Perawat</td>
+                                                                    <td>2</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>33</td>
+                                                                    <td>Sopir</td>
+                                                                    <td>59</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>34</td>
+                                                                    <td>Tentara Nasional Indonesia.</td>
+                                                                    <td>3</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>35</td>
+                                                                    <td>Transportasi.</td>
+                                                                    <td>10</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>36</td>
+                                                                    <td>Tukang Batu.</td>
+                                                                    <td>4</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>37</td>
+                                                                    <td>Tukang Jahit.</td>
+                                                                    <td>8</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>38</td>
+                                                                    <td>Tukang Kayu.</td>
+                                                                    <td>3</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>39</td>
+                                                                    <td>Tukang Las/Pandai Besi.</td>
+                                                                    <td>2</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>40</td>
+                                                                    <td>Tukang Listrik.</td>
+                                                                    <td>1</td>
+                                                                </tr>
+
                                                             </tbody>
                                                         </table>
                                                     </div>
@@ -522,10 +663,10 @@ export default {
             ctx, {
             type: 'line',
             data: {
-                labels: ['0-4', '5-9', '10-14', '15-19', '20-24', '25-29', '30-34', '35-39', '40-44', '45-49', '50-54', '55-59', '60-64', '65-69', '70-74', '>74'],
+                labels: ['1-5', '6-10', '11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45', '46-50', '51-55', '56-60', '61-65', '66-70', '71-75', '76-80', '81-85', '86-90', '>90'],
                 datasets: [{
                     label: 'Jumlah Kependudukan Desa Pasar Pedati',
-                    data: [340, 419, 451, 453, 472, 437, 422, 357, 305, 273, 223, 169, 127, 89, 78, 70],
+                    data: [432, 552, 528, 527, 533, 597, 525, 495, 446, 385, 317, 288, 171, 122, 77, 47, 46, 22, 23],
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
                         'rgba(54, 162, 235, 0.2)'
@@ -541,7 +682,7 @@ export default {
                 plugins: {
                     title: {
                         display: true,
-                        text: 'Jumlah Penduduk Desa Pasar Pedati'
+                        text: 'Jumlah Penduduk Desa Pasar Pedati Berdasarkan Usia'
                     }
                 },
                 scales: {
@@ -572,7 +713,7 @@ export default {
                 labels: ['Islam', 'Kristen', 'Katolik', 'Hindu', 'Budha'],
                 datasets: [{
                     label: 'Jumlah Penduduk',
-                    data: [4461, 84, 68, 56, 16],
+                    data: [6008, 50, 32, 36, 7],
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
                         'rgba(54, 162, 235, 0.2)',
@@ -599,10 +740,10 @@ export default {
             {
                 type: 'bar',
                 data: {
-                    labels: ['Belum Sekolah', 'Tidak Tamat SD', 'Tamat SD', 'SLTP', 'SLTA', 'DIP I', 'DIP II', 'DIP III', 'S1', 'S2', 'S3'],
+                    labels: ['Tidak/Belum Sekolah', 'Tidak Tamat SD/Sederajat', 'Tamat SD/Sederajat', 'SLTP/Sederajat', 'SLTA/Sederajat', 'Diploma I/II', 'Akademi/Diploma III/S. Muda', 'Diploma IV/Strata I', 'Strata II', 'Strata III'],
                     datasets: [{
                         label: 'Jumlah Penduduk',
-                        data: [836, 560, 921, 758, 886, 72, 87, 64, 159, 10],
+                        data: [1808, 510, 1366, 816, 1213, 35, 69, 297, 18, 1],
                         backgroundColor: [
                             'rgba(255, 99, 132, 0.2)',
                         ],
@@ -647,7 +788,7 @@ export default {
                     labels: ['Belum Kawin', 'Kawin', 'Cerai Hidup', 'Cerai Mati'],
                     datasets: [{
                         label: 'Jumlah Penduduk',
-                        data: [2255, 1990, 185, 154],
+                        data: [2907, 2875, 140, 214],
                         backgroundColor: [
                             'rgba(255, 99, 132, 0.2)',
                             'rgba(54, 162, 235, 1)',
@@ -667,11 +808,11 @@ export default {
             {
                 type: 'bar',
                 data: {
-                    labels: ['PNS', 'Nelayan', 'Petani', 'Buruh harain', 'Karyawan Swasta', 'Karyawan BUMN/BUMD', 'Bidan/Tenaga Kesehatan', 'Tukang', 'Pedagang', 'Wiraswasta', 'TNI/ Polri', 'Tidak/Belum Bekerja', 'Lainnya'],
+                    labels: ['Wiraswasta', 'Mengurus Rumah Tangga', 'Pelajar/Mahasiswa', 'Belum/Tidak Bekerja', 'Guru', 'Pedagang', 'Petani/Pekebun', 'Buruh Harian Lepas', 'Pengacara', 'Pegawai Negeri Sipil', 'Buruh Tani/Perkebunan', 'Bidan', 'Buruh Nelayan/Perikanan', 'Buruh Peternakan', 'Buruh Tani/Perkebunan', 'Dokter', 'Dosen', 'Imam Mesjid', 'Industri', 'Karyawan BUMD', 'Karyawan Honorer', 'Karyawan Swasta', 'Kepolisian RI', 'Konstruksi', 'Konsultan', 'Mekanik', 'Nelayan/Perikanan', 'Pelaut', 'Pensiunan', 'Perangkat Desa', 'Perawat', 'Sopir', 'Tentara Nasional Indonesia', 'Transportasi', 'Tukang Batu', 'Tukang Jahit', 'Tukang Kayu', 'Tukang Las/Pandai Besi', 'Tukang Listrik'],
                     datasets: [
                         {
                             label: 'Jumlah Penduduk (type Garis)',
-                            data: [102, 360, 140, 510, 216, 14, 16, 160, 217, 486, 8, 1038, 1400],
+                            data: [703, 1310, 767, 2002, 30, 47, 186, 320, 1, 119, 30, 5, 7, 1, 30, 2, 4, 1, 2, 1, 50, 267, 13, 1, 1, 7, 98, 1, 33, 4, 2, 59, 3, 10, 4, 8, 3, 2, 1],
                             backgroundColor: [
                                 'rgba(89, 22, 131, 0.5)',
                             ],
@@ -689,7 +830,7 @@ export default {
                         },
                         {
                             label: 'Jumlah Penduduk',
-                            data: [102, 360, 140, 510, 216, 14, 16, 160, 217, 486, 8, 1038, 1400],
+                            data: [703, 1310, 767, 2002, 30, 47, 186, 320, 1, 119, 30, 5, 7, 1, 30, 2, 4, 1, 2, 1, 50, 267, 13, 1, 1, 7, 98, 1, 33, 4, 2, 59, 3, 10, 4, 8, 3, 2, 1],
                             backgroundColor: [
                                 'rgba(139, 143, 249, 0.5);',
                             ],

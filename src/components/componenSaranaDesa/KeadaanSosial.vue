@@ -22,8 +22,8 @@
                         <div class=" col-lg-6">
                             <p class=" intenden justify">
                                 Desa Pasar Pedati, yang terletak di sebuah daerah yang indah dan subur, memiliki jumlah
-                                penduduk sebanyak 4.685 jiwa. Data Capil Tahun 2021 menunjukkan bahwa dari jumlah tersebut,
-                                terdapat 2.397 jiwa laki-laki dan 2.288 jiwa perempuan. Selain itu, terdapat 1.307 Kepala
+                                penduduk sebanyak 6.133 jiwa. Data Capil Tahun 2023 menunjukkan bahwa dari jumlah tersebut,
+                                terdapat 3.174 jiwa laki-laki dan 2.959 jiwa perempuan. Selain itu, terdapat 1.307 Kepala
                                 Keluarga (KK) yang tersebar di tiga wilayah dusun yang ada, yaitu Dusun 001 Pasar Pedati,
                                 Dusun 002 Pasar Pedati, dan Dusun 003 Sungai Hitam.
                             </p>
@@ -68,7 +68,7 @@ export default {
                  labels: ['Laki-laki', 'Perempuan'],
                 datasets: [{
                     label: 'Jumlah Penduduk',
-                    data: [2397, 2288],
+                    data: [3174, 2959],
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
                         'rgba(54, 162, 235, 0.2)'
