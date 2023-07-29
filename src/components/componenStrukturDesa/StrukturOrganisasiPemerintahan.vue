@@ -1,6 +1,6 @@
 <template>
     <div class=" container tulisan2 mt-2">
-        <div class=" card shadow" data-aos="fade-left" data-aos-duration="4000">
+        <div class=" card shadow" data-aos="fade-left" >
             <div class="card-header warna-card-header">
                 <h4 class="text-center"><strong>Struktur Organisasi Pemerintahan Desa</strong></h4>
             </div>
@@ -10,7 +10,7 @@
             </div>
         </div>
         <div class="mt-2">
-            <div class=" card shadow" data-aos="fade-right" data-aos-duration="4000">
+            <div class=" card shadow" data-aos="fade-left">
                 <div class="card-header warna-card-header">
                     <h4 class=" text-center"><strong>Personil</strong></h4>
                 </div>
@@ -150,7 +150,7 @@
             </div>
         </div>
         <div class=" mt-2">
-            <div class=" card shadow" data-aos="fade-left" data-aos-duration="4000">
+            <div class=" card shadow" data-aos="fade-left">
                 <div class=" card-header warna-card-header">
                     <h4 class=" text-center"><strong>Bagan Susunan Organisasi BPD Pasar Pedati</strong></h4>
                 </div>
@@ -161,7 +161,7 @@
             </div>
         </div>
         <div class=" mt-2">
-            <div class=" card shadow" data-aos="fade-left" data-aos-duration="4000">
+            <div class=" card shadow" data-aos="fade-left">
                 <div class="card-header warna-card-header">
                     <h4 class=" text-center"><strong>Personil</strong></h4>
                 </div>
@@ -212,6 +212,18 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div class=" mt-2">
+            <div class=" card shadow" data-aos="fade-left">
+                <div class="card-header warna-card-header">
+                    <h4 class=" card-title text-center">
+                        <strong>Struktur PKK</strong>
+                    </h4>
+                </div>
+                <div class=" card-body">
+                    <img src="@/assets/image/Struktur_PKK_desa_pasar_pedati.jpg" class=" card-img" alt="gambar PKK">
                 </div>
             </div>
         </div>

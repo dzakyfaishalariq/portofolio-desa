@@ -6,7 +6,7 @@
         <div class=" container mt-2">
             <div data-aos="fade-up">
                 <div class="card mb-3 shadow">
-                    <img src="@/assets/image/SungaiSuci2.jpg" class="card-img-top img-fluid ukuranGambar"
+                    <img src="@/assets/image/SungaiSuci5.jpg" class="card-img-top img-fluid ukuranGambar"
                         alt="gambar sungai suci">
                     <div class="card-body">
                         <h5 class="card-title"><strong>Sungai Suci</strong></h5>
@@ -42,7 +42,7 @@
             </div>
             <div data-aos="fade-up">
                 <div class="card mb-3 shadow">
-                    <img src="@/assets/image/danauNibung4.jpg" class="card-img-top img-fluid ukuranGambar"
+                    <img src="@/assets/image/danauNibung12.jpg" class="card-img-top img-fluid ukuranGambar"
                         alt="gambar sungai suci">
                     <div class="card-body">
                         <h5 class="card-title"><strong>Danau Nibung</strong></h5>

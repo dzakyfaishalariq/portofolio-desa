@@ -52,7 +52,8 @@
                             <div class="card-body">
                                 <h5 class="card-title">Keadaan Sosial</h5>
                                 <p class="card-text">
-                                    Data Umur ini meliputi data umur penduduk di desa pasar pedati, mulai dari umur 0-5 tahun
+                                    Data Umur ini meliputi data umur penduduk di desa pasar pedati, mulai dari umur 0-5
+                                    tahun
                                     dan umur 5-10 tahun, dan lain-lain. Sebagai pengetahuan untuk mengetahui jumlah penduduk
                                     sesuai dengan kriteria umur
                                 </p>
@@ -81,7 +82,7 @@
                                 </div>
                             </div>
                             <div class=" card-footer foot-warna text-center">
-                                <router-link :to="{ name: 'dataWilayah' }" class="btn btn-primary">Lihat Info</router-link>
+                                <router-link :to="{ name: 'agendaKKN' }" class="btn btn-primary">Lihat Info</router-link>
                             </div>
                         </div>
                     </div>

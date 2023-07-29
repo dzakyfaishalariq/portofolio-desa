@@ -152,6 +152,241 @@
                                 <span class="visually-hidden">Next</span>
                             </button>
                         </div>
+                        <div class=" mt-3">
+                            <div class="intenden jsutify">
+                                Kemudain kami melaksanakan kegiatan sosial di desa pasar pedati yang berfokus pada membantu
+                                anak-anak yang terdampak stunting. Setelah persiapan matang, kami membawa makanan yang telah
+                                kami siapkan untuk dibagikan kepada mereka. Di lokasi, kami melihat empat anak yang
+                                membutuhkan perhatian khusus karena kondisi stunting mereka. Tanpa ragu, kami langsung
+                                melakukan pembagian makanan kepada mereka dengan harapan dapat memberikan asupan gizi yang
+                                baik untuk mendukung tumbuh kembang mereka. Kami berusaha memberikan dukungan positif dalam
+                                upaya mereka untuk memperoleh kesehatan yang lebih baik.
+                            </div>
+                            <div class=" intenden justify">
+                                Tak hanya memberikan makanan saja, kami juga berusaha memberikan pendampingan dan edukasi
+                                tentang pentingnya nutrisi yang seimbang bagi tumbuh kembang anak-anak. Melalui pembagian
+                                makanan tersebut, kami berharap dapat memberikan contoh nyata tentang pentingnya menjaga
+                                kesehatan dengan baik. Dengan memberikan asupan gizi yang baik, diharapkan anak-anak
+                                tersebut dapat tumbuh menjadi generasi yang kuat dan cerdas, serta dapat mengatasi stunting
+                                yang selama ini menjadi kendala bagi pertumbuhan mereka. Selain itu, kami juga berupaya
+                                untuk mengajak para orangtua dan masyarakat di desa pasar pedati untuk lebih peduli dan
+                                mendukung program-program kesehatan anak.
+                            </div>
+                            <div class=" intenden justify">
+                                Kegiatan tersebut memberikan kesan yang mendalam bagi kami sebagai relawan. Melihat senyum
+                                kebahagiaan di wajah anak-anak ketika menerima makanan bergizi membuat setiap usaha dan
+                                perjuangan kami terasa berarti. Semangat dan harapan yang terpancar dari mereka, memberi
+                                dorongan bagi kami untuk terus berkontribusi dalam memberikan dampak positif bagi
+                                masyarakat. Melalui kegiatan ini, kami menyadari bahwa memberikan bantuan kepada mereka yang
+                                membutuhkan bukan hanya sekadar tindakan sosial semata, tetapi juga merupakan bentuk
+                                kepedulian untuk menciptakan perubahan yang lebih baik bagi masa depan generasi penerus
+                                bangsa.
+                            </div>
+                            <div id="carouselExample2" class="carousel slide mt-3">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="@/assets/image/stunting_m2.jpg" class=" card-img gambar_area"
+                                            alt="gambar Panitia Satu Muharam">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="@/assets/image/stunting_m3.jpg" class=" card-img gambar_area"
+                                            alt="gambar Panitia Satu Muharam">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="@/assets/image/stunting_m4.jpg" class=" card-img gambar_area"
+                                            alt="gambar Panitia Satu Muharam">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="@/assets/image/stunting_m5.jpg" class=" card-img gambar_area"
+                                            alt="gambar Panitia Satu Muharam">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="@/assets/image/stunting_m6.jpg" class=" card-img gambar_area"
+                                            alt="gambar Panitia Satu Muharam">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="@/assets/image/stunting_m7.jpg" class=" card-img gambar_area"
+                                            alt="gambar Panitia Satu Muharam">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="@/assets/image/stunting_m8.jpg" class=" card-img gambar_area"
+                                            alt="gambar Panitia Satu Muharam">
+                                    </div>
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample2"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample2"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <li>
+                    <h4>
+                        <strong>
+                            Melaksanakan kegiatan senam tiap minggu pagi
+                        </strong>
+                    </h4>
+                </li>
+                <div class=" card">
+                    <div class=" card-body">
+                        <p class=" intenden justify">
+                            Kegiatan senam yang akan diadakan di Perumahan Pedati Asri adalah inisiatif yang sangat positif
+                            untuk meningkatkan kesehatan dan kualitas hidup warga perumahan. Senam merupakan salah satu
+                            olahraga ringan yang dapat dinikmati oleh semua kalangan usia, sehingga akan menjadi sarana yang
+                            tepat untuk mempererat tali persaudaraan dan menjalin komunitas yang lebih sehat di lingkungan
+                            perumahan tersebut.
+                        </p>
+                        <p class=" intenden justify">
+                            Kegiatan senam di Perumahan Pedati Asri direncanakan sebagai acara rutin dengan tujuan utama
+                            untuk meningkatkan kesadaran akan pentingnya gaya hidup aktif dan sehat. Selain itu, senam juga
+                            membawa manfaat dalam meningkatkan kebugaran fisik, fleksibilitas, dan keseimbangan tubuh.
+                            Dengan rutinitas senam secara berkala, diharapkan mampu mengurangi risiko penyakit-penyakit
+                            kronis seperti obesitas, diabetes, dan penyakit jantung.
+                        </p>
+                        <p class=" intenden justify">
+                            Selain manfaat fisiknya, kegiatan senam di Perumahan Pedati Asri juga akan menjadi ajang
+                            berkumpulnya warga dalam kebersamaan. Melalui senam, warga dapat saling berinteraksi,
+                            berkomunikasi, dan memperkuat ikatan sosial. Selain itu, diharapkan kegiatan ini dapat menjadi
+                            wadah bagi warga yang ingin saling berbagi pengetahuan dan pengalaman mengenai gaya hidup sehat
+                            serta memberikan dukungan untuk mencapai tujuan kesehatan masing-masing.
+                        </p>
+                        <p class=" intenden justify">
+                            Dalam rangka mencapai kesuksesan kegiatan senam di Perumahan Pedati Asri, diperlukan kolaborasi
+                            dan partisipasi aktif dari seluruh warga perumahan. Koordinasi yang baik antara panitia,
+                            fasilitator senam, dan peserta akan menjadi kunci suksesnya acara ini. Dengan adanya kegiatan
+                            senam rutin, diharapkan Perumahan Pedati Asri dapat menjadi lingkungan yang lebih sehat,
+                            bahagia, dan harmonis, serta menjadi contoh inspiratif bagi perumahan-perumahan lainnya dalam
+                            mengedepankan gaya hidup sehat dan aktif.
+                        </p>
+                        <div id="carouselExample3" class="carousel slide">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <!-- <img src="" class="d-block w-100" alt="..."> -->
+                                    <img src="@/assets/image/senam1.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/senam2.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/senam3.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/senam4.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/senam5.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample3"
+                                data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample3"
+                                data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <li>
+                    <h4>
+                        <strong>
+                            Melaksanakan kegiatan Musyawarah Dusun di Balai Desa
+                        </strong>
+                    </h4>
+                </li>
+                <div class=" card">
+                    <div class=" card-body">
+                        <p class=" intenden justify">
+                            Pada tanggal 21 july 2023 di hari sabtu kelompok 47 menghadiri musyawara dusun yang di adakan di
+                            balai desa pada malam hari jam 8. Kegiatan ini di hadiri oleh ketua dusun untuk membahas dan
+                            mendiskusikan permasalahan yang ada di masyarakat di desa pasar pedati.
+                        </p>
+                        <div id="carouselExample4" class="carousel slide">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <!-- <img src="" class="d-block w-100" alt="..."> -->
+                                    <img src="@/assets/image/musdus_2.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/musdus_2.2.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/musdus_2.3.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample4"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample4"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <li>
+                    <h4>
+                        <strong>
+                            Melaksanakan kegiatan mengajar di SDN 76 Pasar Pedati
+                        </strong>
+                    </h4>
+                </li>
+                <div class=" card">
+                    <div class="card-body">
+                        <p class=" intenden justifys">
+                            Kami melaksanakan kegiatan mengajar di SDN 76 pasar pedati yang mana kami dan teman-teman
+                            kelompok yang lain mengajar di kelas 2,3,4,5,dan 6 dengan materi yang berbeda-beda. Ada yang
+                            mengajari Menggambar serta mengajar menghitung dan lain-lain.
+                        </p>
+                        <div id="carouselExample5" class="carousel slide">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <!-- <img src="" class="d-block w-100" alt="..."> -->
+                                    <img src="@/assets/image/SD76.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/SD76.2.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/SD76.3.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample5"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample5"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </ul>
@@ -169,6 +404,10 @@
 
 .intenden {
     text-indent: 50px;
+}
+
+.gambar_area {
+    height: 700px !important;
 }
 
 .justify {
