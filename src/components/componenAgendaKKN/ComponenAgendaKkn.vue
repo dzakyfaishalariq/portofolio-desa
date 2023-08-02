@@ -57,6 +57,114 @@
             <ul class=" mt-5">
                 <li>
                     <h4>
+                        <strong>Pembagian Buku Monografi</strong>
+                    </h4>
+                </li>
+                <div class=" card">
+                    <div class="card-body">
+                        <p class=" intenden justify mt-2">
+                            Pada bagian ini agenda dari KKN kelompok 47 individu memberikan buku monografi desa yang
+                            menjelaskan
+                            tentang desa pasar pedati baik itu sejarah, kebudayaan, dan lain-lain.
+                        </p>
+                        <div class=" mt-1">
+                            <img src="@/assets/image/buku_monografi1.jpg" class=" img-fluid" alt="buku monografi">
+                            ]
+                        </div>
+                    </div>
+                </div>
+                <li>
+                    <h4>
+                        <strong>Pembuatan dan pemberian website portofolio desa</strong>
+                    </h4>
+                </li>
+                <div class=" card">
+                    <div class=" card-body">
+                        <p class=" intenden justify mt-2">
+                            Pada bagian ini agenda dari KKN kelompok 47 individu membuat website portofolio desa Pasar
+                            Pedati yang
+                            mana berisi tentang info info desa pasar pedati serta sejarah, data penduduk dan lain-lain.
+                            Website ini berbentuk seperti majalah digital yang dapat diakses secara onlain dimanapun dan
+                            kapanpun agar dapat mempermudah masyarakat dalam mencari informasi tentang desa pasar pedati.
+                        </p>
+                        <div id="tes1" class="carousel slide">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <!-- <img src="" class="d-block w-100" alt="..."> -->
+                                    <img src="@/assets/image/web_1.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/web_2.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/web_3.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#tes1" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#tes1" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <li>
+                    <h4>
+                        <Strong>
+                            Sosialisasi tentang Menggunakan Smarthpone Secara Bijak terhadap Anak-anak dan Remaja Di
+                            Perumahan Pedati Asri
+                        </Strong>
+                    </h4>
+                </li>
+                <div class=" card">
+                    <div class=" card-body">
+                        <p class=" intenden justify mt-2">
+                            Bagian ini merupakan bagian dari agenda kegiatan KKN kelompok 47 individu yang mana bertujuan
+                            untuk memberikan edukasi tentang penggunaan smarthphone secara bijak terhadap anak-anak dan
+                            remaja yang ada di sana. materi yang disampaikan meliputi tentang dampak positif dan negatif
+                            yang ada pada smarthphone yang digunakan anak-anak dan remaja, Selain itu juga diberikan cara
+                            menanggulangi dampak negatif yang ada pada smarthphone tersebut, serta memberikan hadiah bagi
+                            yang bisa menjawab pertanyaan di akhir sesi dari sosialisasi tersebut terhadap anak anak dan
+                            remaja yang menyaksikan kegiatan tersebut.
+                        </p>
+                        <div id="tes3" class="carousel slide">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <!-- <img src="" class="d-block w-100" alt="..."> -->
+                                    <img src="@/assets/image/proker_2.12.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2.11.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2.7.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2.4.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2.3.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2.1.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#tes3" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#tes3" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>  
+                    </div>
+                </div>
+                <li>
+                    <h4>
                         <strong>
                             Satu Muharam 1445 H di Desa Pasar Pedati
                         </strong>
@@ -140,6 +248,12 @@
                                     <img src="@/assets/image/Stunting.jpg" class=" card-img"
                                         alt="gambar Panitia Satu Muharam">
                                 </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_bagas_stunting.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+
+                                <!-- proker_bagas_stunting -->
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample"
                                 data-bs-slide="prev">
@@ -364,8 +478,7 @@
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
                                     <!-- <img src="" class="d-block w-100" alt="..."> -->
-                                    <img src="@/assets/image/SD76.jpg" class=" card-img"
-                                        alt="gambar Panitia Satu Muharam">
+                                    <img src="@/assets/image/SD76.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
                                 </div>
                                 <div class="carousel-item">
                                     <img src="@/assets/image/SD76.2.jpg" class=" card-img"

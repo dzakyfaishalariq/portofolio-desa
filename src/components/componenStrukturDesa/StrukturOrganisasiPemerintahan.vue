@@ -223,7 +223,7 @@
                     </h4>
                 </div>
                 <div class=" card-body">
-                    <img src="@/assets/image/Struktur_PKK_desa_pasar_pedati.jpg" class=" card-img" alt="gambar PKK">
+                    <img src="@/assets/image/StrukturPKKDesaPasarPedati2.png" class=" card-img" alt="gambar PKK">
                 </div>
             </div>
         </div>
