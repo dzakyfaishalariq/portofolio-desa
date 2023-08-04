@@ -13,7 +13,7 @@
                                     keadaan Desa Pasar Pedati.
                                 </p>
                                 <a href="https://drive.google.com/file/d/1FZePpYIIaynzSzPCvv6_63SkyfVsNKK1/view?usp=sharing"
-                                    class="btn btn-primary">Lihat Buku</a>
+                                    class="btn btn-primary" target="_blank">Lihat Buku</a>
                             </div>
                         </div>
                     </div>
@@ -30,7 +30,7 @@
                                     tentang geografi, demografi, wisata, agama, dan pekerjaan di desa.
                                 </p>
                                 <a href="https://drive.google.com/file/d/15HPjNvQVVQqIqGEgWoMGlcwLzzEvuJPz/view?usp=sharing"
-                                    class="btn btn-primary">Lihat Infografis</a>
+                                    class="btn btn-primary" target="_blank">Lihat Infografis</a>
                             </div>
                         </div>
                     </div>
@@ -49,7 +49,7 @@
                                 </p>
                                 <a href="https://www.kompasiana.com/bagaspangesvito/64b7b154a0688f2c5b2a36f4/
                                 menjelajahi-keindahan-danau-nibung-di-bengkulu-tengah?page=all#section1"
-                                    class="btn btn-primary">Lihat Buku</a>
+                                    class="btn btn-primary" target="_blank">Lihat artikel</a>
                             </div>
                         </div>
                     </div>

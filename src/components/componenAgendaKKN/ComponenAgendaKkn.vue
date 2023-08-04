@@ -57,7 +57,7 @@
             <ul class=" mt-5">
                 <li>
                     <h4>
-                        <strong>Pembagian Buku Monografi</strong>
+                        <strong>Pemberian Buku Monografi Desa Pasar Pedati Kebalai Desa</strong>
                     </h4>
                 </li>
                 <div class=" card">
@@ -65,11 +65,34 @@
                         <p class=" intenden justify mt-2">
                             Pada bagian ini agenda dari KKN kelompok 47 individu memberikan buku monografi desa yang
                             menjelaskan
-                            tentang desa pasar pedati baik itu sejarah, kebudayaan, dan lain-lain.
+                            tentang desa pasar pedati baik itu sejarah, kebudayaan, dan lain-lain. Buku Monografi ini dibuat
+                            oleh Muhammad Iqbal
+                            Meiwidian
                         </p>
                         <div class=" mt-1">
                             <img src="@/assets/image/buku_monografi1.jpg" class=" img-fluid" alt="buku monografi">
                             ]
+                        </div>
+                    </div>
+                </div>
+                <li>
+                    <h4>
+                        <strong>
+                            Pemberian Sepanduk Infografis Desa Pasar Pedati Kebalai Desa
+                        </strong>
+                    </h4>
+                </li>
+                <div class="card">
+                    <div class=" card-body">
+                        <p class=" intenden justify mt-2">
+                            Pada Bagian ini Merupakan Kegiatan KKN 47 Proker Individu yang mana memberikan Spanduk
+                            Infografis ke Desa pasar pedati secara simbolis ke Kepala Desa Pasar Pedati di Balai Desa. Hal
+                            ini bertujuan untuk mempermudah masyarakat dalam mencari informasi tentang desa pasar pedati
+                            melali spanduk yang akan di letakan di balai desa. infografis ini dibuat oleh Muhammad Iqbal
+                            Meiwidian
+                        </p>
+                        <div class=" mt-1">
+                            <img src="@/assets/image/spanduk_infografis.jpg" class=" card-img" alt="spanduk">
                         </div>
                     </div>
                 </div>
@@ -86,6 +109,7 @@
                             mana berisi tentang info info desa pasar pedati serta sejarah, data penduduk dan lain-lain.
                             Website ini berbentuk seperti majalah digital yang dapat diakses secara onlain dimanapun dan
                             kapanpun agar dapat mempermudah masyarakat dalam mencari informasi tentang desa pasar pedati.
+                            Website ini dibuat oleh Dzaky Faishalariq.
                         </p>
                         <div id="tes1" class="carousel slide">
                             <div class="carousel-inner">
@@ -128,7 +152,7 @@
                             yang ada pada smarthphone yang digunakan anak-anak dan remaja, Selain itu juga diberikan cara
                             menanggulangi dampak negatif yang ada pada smarthphone tersebut, serta memberikan hadiah bagi
                             yang bisa menjawab pertanyaan di akhir sesi dari sosialisasi tersebut terhadap anak anak dan
-                            remaja yang menyaksikan kegiatan tersebut.
+                            remaja yang menyaksikan kegiatan tersebut. Kegiatan ini diselengarakan oleh Dzaky Faishalariq.
                         </p>
                         <div id="tes3" class="carousel slide">
                             <div class="carousel-inner">
