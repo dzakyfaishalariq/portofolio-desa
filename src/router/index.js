@@ -11,6 +11,7 @@ import DataWilayah from "../views/DataWilayah.vue";
 import SaranaDesa from "../views/SaranaDesa.vue";
 import AgendaKKN from "../views/AgendaKKN.vue";
 import KontakDesa from "../views/KontakDesa.vue";
+import BukuMonografi from "../views/BukuMonografi.vue";
 const routes = [
   {
     path: "/",
@@ -72,6 +73,11 @@ const routes = [
     name: "agendaKKN",
     component: AgendaKKN,
   },
+  {
+    path: "/bukuMonografi",
+    name: "bukuMonografi",
+    component: BukuMonografi,
+  }
 ];
 
 const router = createRouter({

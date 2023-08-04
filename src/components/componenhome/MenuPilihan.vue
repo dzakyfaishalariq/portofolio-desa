@@ -95,4 +95,7 @@
 .foot-warna {
     background-color: #AAC8A7 !important;
 }
+.warna-2{
+    background-color: #C3EDC0 !important;
+}
 </style>

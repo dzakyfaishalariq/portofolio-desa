@@ -48,6 +48,10 @@
                                 <router-link :to="{ name: 'petaLokasi' }" class="dropdown-item tulisan2">Peta
                                     Lokasi</router-link>
                             </li>
+                            <li>
+                                <!-- <a class="dropdown-item tulisan2" href="#">Peta Lokasi</a> -->
+                                <router-link :to="{ name: 'bukuMonografi' }" class="dropdown-item tulisan2">Lainnya</router-link>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">

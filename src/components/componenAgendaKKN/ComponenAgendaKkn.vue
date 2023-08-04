@@ -134,22 +134,28 @@
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
                                     <!-- <img src="" class="d-block w-100" alt="..."> -->
-                                    <img src="@/assets/image/proker_2.12.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                    <img src="@/assets/image/proker_2.12.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="@/assets/image/proker_2.11.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                    <img src="@/assets/image/proker_2.11.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="@/assets/image/proker_2.7.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                    <img src="@/assets/image/proker_2.7.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="@/assets/image/proker_2.4.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                    <img src="@/assets/image/proker_2.4.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="@/assets/image/proker_2.3.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                    <img src="@/assets/image/proker_2.3.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="@/assets/image/proker_2.1.jpg" class=" card-img" alt="gambar Panitia Satu Muharam">
+                                    <img src="@/assets/image/proker_2.1.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#tes3" data-bs-slide="prev">
@@ -160,7 +166,7 @@
                                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                 <span class="visually-hidden">Next</span>
                             </button>
-                        </div>  
+                        </div>
                     </div>
                 </div>
                 <li>
@@ -494,6 +500,71 @@
                                     <span class="visually-hidden">Previous</span>
                                 </button>
                                 <button class="carousel-control-next" type="button" data-bs-target="#carouselExample5"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <li>
+                    <h4>
+                        <strong>
+                            Melaksanakan Kegiatan Program Kerja di Danau Nibung Pasar Pedati
+                        </strong>
+                    </h4>
+                </li>
+                <div class=" card">
+                    <div class=" card-body">
+                        <p class=" intenden justify mt-2">
+                            Dikegiatan ini saya dan kelompok KKN melakukan kegiatan Pogram kerja ke dua sebagai program
+                            kerja kelompok di danau nibung yaitu
+                            menempelkan papan tulisan Untuk menjaga kebersihan di danau nibung serta melakukan kegiatan
+                            bersih bersih di danau nibung tersebut. Kegiatan ini di laksanakan pada tanggal 4 agustus 2023
+                            di hari jumat. Berikut gambaran kegiatan-kegiatan yang kami lakukan di danau nibung.
+                        </p>
+                        <div id="tex5" class="carousel slide">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <!-- <img src="" class="d-block w-100" alt="..."> -->
+                                    <img src="@/assets/image/proker_2_baru8.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2_baru1.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2_baru2.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2_baru3.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2_baru4.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2_baru5.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2_baru6.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="@/assets/image/proker_2_baru7.jpg" class=" card-img"
+                                        alt="gambar Panitia Satu Muharam">
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#tex5"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#tex5"
                                     data-bs-slide="next">
                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                     <span class="visually-hidden">Next</span>
